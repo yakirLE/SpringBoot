@@ -1,0 +1,5 @@
+server:
+  port: 5002
+
+app:
+  version: 1.2

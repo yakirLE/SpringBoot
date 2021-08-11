@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/conference_app
+    username: postgres
+    password: Password1!
+
+server:
+  port: 5000
+
+app:
+  version: 1.0
